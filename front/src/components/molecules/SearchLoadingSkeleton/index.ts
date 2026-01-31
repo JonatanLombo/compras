@@ -1,0 +1,1 @@
+export { SearchLoadingSkeleton } from "./SearchLoadingSkeleton";
